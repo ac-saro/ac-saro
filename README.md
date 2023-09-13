@@ -13,3 +13,6 @@
 |app|[solr-db-importer](https://github.com/saro-lab/solr-db-importer)|솔라 DB Importer|
 |server|[anissia-core](https://github.com/anissia-net/anissia-core)|애니시아 BE 코어|
 |web|[anissia-web](https://github.com/anissia-net/anissia-web)|애니시아 FE|
+
+#### 블로그
+- [가리사니의 조각들...](https://ac-saro.github.io/)
