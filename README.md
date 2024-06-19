@@ -7,7 +7,7 @@
 |---|---|---|
 |maven|[jwt](https://github.com/saro-lab/jwt)|JWT 라이브러리 (암/복호화, 동적키)|
 |maven|[selenium-chrome-all-in-one](https://github.com/saro-lab/selenium-chrome-all-in-one)|Selenium 올인원 프로젝트|
-|maven|[jwt](https://github.com/saro-lab/image-magick-wrapper)|image magick wrapper 프로젝트|
+|maven|[image-magick-wrapper](https://github.com/saro-lab/image-magick-wrapper)|image magick wrapper 프로젝트|
 |maven|[solr-client](https://github.com/saro-lab/solr-client)|솔라 클라이언트|
 |npm|[raon](https://github.com/saro-lab/raon)|라온|
 |maven|[rss-stream-reader](https://github.com/saro-lab/rss-stream-reader)|RSS 스트림 리더|
