@@ -6,6 +6,7 @@
 |구분|이름|설명|
 |---|---|---|
 |maven|[jwt](https://github.com/saro-lab/jwt)|JWT 라이브러리 (암/복호화, 동적키)|
+|maven|[Spring Rest WebClient](https://github.com/saro-lab/spring-rest-web-client)| 스프링 WebClient |
 |maven|[nginx-whitelist](https://github.com/saro-lab/nginx-whitelist)|NGINX whitelist|
 |maven|[selenium-chrome-all-in-one](https://github.com/saro-lab/selenium-chrome-all-in-one)|Selenium 올인원|
 |maven|[image-magick-wrapper](https://github.com/saro-lab/image-magick-wrapper)|image magick wrapper|
